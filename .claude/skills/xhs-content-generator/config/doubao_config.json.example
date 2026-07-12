@@ -1,0 +1,9 @@
+{
+  "api_key": "your-doubao-api-key-here",
+  "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+  "multimodal_endpoint": "chat/completions",
+  "multimodal_endpoint_id": "ep-your-multimodal-endpoint-id",
+  "image_gen_endpoint": "images/generations",
+  "image_gen_endpoint_id": "ep-your-image-gen-endpoint-id",
+  "image_gen_model": "doubao-seedream-4.0"
+}

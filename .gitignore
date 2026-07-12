@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Environment & secrets
+.env
+*.env
+!.env.example
+.canghe-skills/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp & output
+tmp/
+output/
+zhihu-articles/
+
+# Node
+node_modules/
+
+# Claude
+.claude/worktrees/
+.claude/scheduled_tasks.json
+.claude/settings.local.json
+
+# Playwright
+playwright-report/
+test-results/
